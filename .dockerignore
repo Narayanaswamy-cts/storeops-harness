@@ -1,0 +1,17 @@
+.venv/
+.git/
+.github/
+.harness/output/
+.vscode/
+tests/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+*.egg-info/
+dist/
+build/
+Dockerfile
+compose.yaml
